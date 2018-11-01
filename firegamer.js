@@ -8,11 +8,11 @@ const client = new Client({ disableEveryone: true });
 const youtube = new YouTube(GOOGLE_API_KEY);
 
 const queue = new Map();
-FIREGAMER.on('ready', () => {
+client.on('ready', () => {
 
 console.log('iiFireGame');
 
-FIREGAMER.user.setGame(`تعالو نتكلم`,'https://www.twitch.tv/TEST-Broadcast');
+client.user.setGame(`تعالو نتكلم`,'https://www.twitch.tv/TEST-Broadcast');
 
 });
 
