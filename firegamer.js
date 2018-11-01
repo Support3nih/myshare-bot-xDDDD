@@ -21,7 +21,7 @@ FIREGAMER.on("guildMemberAdd", member => {
 **
 السلام عليكم 
 نورنا في السرفر يا حبيبي :heartpulse: 
-                               [  https://discord.gg/dma2dDj  ] 
+                               [  https://discord.gg/48CRzRz  ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
